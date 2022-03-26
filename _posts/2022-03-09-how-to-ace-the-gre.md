@@ -7,6 +7,8 @@ categories: study-guide
 
 Preparing for the GRE can be extremely stressful. Especially if you do not know what to do. Following a study plan will make it a bit easier. During my preparation, I had followed the [Two Month Study](https://www.gregmat.com/study-plans/two-months-study-plan/) by GregMat and scored **330 (V: 161, Q:169, AWA: 4.0)**. It is a comprehensive study plan which covers almost everything that you need to ace your GRE. However, if you are unwilling to get a paid subscription, you can follow these guides. I have organized the essential tips and strategies from free resources available on the internet (GregMat's free contents cover most of it). 
 
+![Words by Amador Loureiro](/assets/images/words.jpg)
+
 ## KNOW THE THREE-HEADED BEAST
 First, you need to get familiar with GRE. The following videos cover the test structure, adaptive scoring algorithm, and the materials you should use.
 
