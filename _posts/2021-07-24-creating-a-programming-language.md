@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a programming language"
-date:   2021-07-24 00:00:00 +0600
+date:   2021-07-24 00:00:00 +0000
 categories: tech-talk
 ---
 

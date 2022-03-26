@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to ace the GRE"
-date:   2022-03-09 00:00:00 +0600
+date:   2022-03-09 00:00:00 +0000
 categories: study-guide
 ---
 

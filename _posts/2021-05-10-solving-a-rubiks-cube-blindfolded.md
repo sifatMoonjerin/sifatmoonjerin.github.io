@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solving a Rubik's cube blindfolded"
-date:   2021-05-10 00:00:00 +0600
+date:   2021-05-10 00:00:00 +0000
 categories: hobby
 ---
 
