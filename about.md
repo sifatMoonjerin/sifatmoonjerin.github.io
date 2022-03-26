@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Sifat Moonjerin, also known as Srizon among friends, is a passionate software engineer working at [SELISE Digital Platforms](https://selise.ch/). He also has a bachelor's degree in Electrical and Electronic Engineering. Besides staring at the monitor all day, he likes to learn new stuff. Currently, he is exploring different memory techniques to memorize a bunch of random information, such as the order of a shuffled deck of cards and the first 100 digits of PI. However, he does not remember what he had for breakfast today.
 
 
-[jekyll-organization]: https://github.com/jekyll
