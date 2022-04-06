@@ -19,4 +19,4 @@ On my first attempt, it took me 12 minutes and 39 seconds! Far from my target of
 
 ### Week 2
 #### Best time: 03:59.86
-I have managed to memorize a deck in under 4 minutes, and on average, it takes around four and a half minutes. I am thinking about taking a break next week!
+I have managed to memorize a deck in under 4 minutes, and on average, it takes around four and a half minutes. It has been an adventurous two weeks of memorization. However, I am thinking about taking a break next week!
